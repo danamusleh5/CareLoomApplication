@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745446006332",
+    "project_id": "careloom-f5186",
+    "storage_bucket": "careloom-f5186.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745446006332:android:2a09e2c601fa2c8ddf6d39",
+        "android_client_info": {
+          "package_name": "com.example.care_loom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfFCoRJEEaNZLo6cqUrZXzzh4SwL9neSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745446006332:android:66b8eca1082c73a2df6d39",
+        "android_client_info": {
+          "package_name": "com.example.careloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfFCoRJEEaNZLo6cqUrZXzzh4SwL9neSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
