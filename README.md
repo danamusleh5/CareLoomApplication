@@ -113,3 +113,27 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 Let us know if you encounter any issues or need further assistance while setting up CareLoom!
 
+# My Project
+
+## Login Screens
+
+Here are the images for the login screens:
+
+![Login Screen 1](./images/logIn.jpg)
+![Login Screen 2](./images/login2.jpg)
+
+## Parent Screens
+
+Here are the images for the parent screens:
+
+![Parent Screen 1](./images/parent.jpg)
+![Parent Screen 2](./images/parent2.jpg)
+![Parent Screen 3](./images/parentAdd.jpg)
+![Parent Screen 4](./images/parentAdd2.jpg)
+
+## Child Screens
+
+Here are the images for the child screens:
+
+![Child Screen 1](./images/child1.jpg)
+![Child Screen 2](./images/child2.jpg)
