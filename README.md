@@ -16,7 +16,6 @@ CareLoom is a family safety app built with Flutter. It helps parents monitor and
 ### Child Features:
 - **Link device via QR code**: The child device links to the parent device using a QR code, ensuring seamless connection and monitoring.
 - **Receive notifications**: Children can receive notifications from the parent device regarding usage limits, updates, and important messages.
-- **Update profile settings**: Children can view and update their profile settings from their device, ensuring they have access to the information they need.
 
 ---
 
@@ -113,27 +112,38 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 Let us know if you encounter any issues or need further assistance while setting up CareLoom!
 
+# Images of the design of screens 
+
 # My Project
 
 ## Login Screens
 
 Here are the images for the login screens:
 
-![Login Screen 1](./images/logIn.jpg)
-![Login Screen 2](./images/login2.jpg)
+<div style="display: flex; justify-content: space-around;">
+    <img src="./images/logIn.jpg" alt="Login Screen 1" width="300" style="margin-right: 10px;">
+    <img src="./images/login2.jpg" alt="Login Screen 2" width="300">
+</div>
 
 ## Parent Screens
 
 Here are the images for the parent screens:
 
-![Parent Screen 1](./images/parent.jpg)
-![Parent Screen 2](./images/parent2.jpg)
-![Parent Screen 3](./images/parentAdd.jpg)
-![Parent Screen 4](./images/parentAdd2.jpg)
+<div style="display: flex; justify-content: space-around;">
+    <img src="./images/parent.jpg" alt="Parent Screen 1" width="300" style="margin-right: 10px;">
+    <img src="./images/parent2.jpg" alt="Parent Screen 2" width="300">
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="./images/parentAdd.jpg" alt="Parent Screen 3" width="300" style="margin-right: 10px;">
+    <img src="./images/parentAdd2.jpg" alt="Parent Screen 4" width="300">
+</div>
 
 ## Child Screens
 
 Here are the images for the child screens:
 
-![Child Screen 1](./images/child1.jpg)
-![Child Screen 2](./images/child2.jpg)
+<div style="display: flex; justify-content: space-around;">
+    <img src="./images/child1.jpg" alt="Child Screen 1" width="300" style="margin-right: 10px;">
+    <img src="./images/child2.jpg" alt="Child Screen 2" width="300">
+</div>
